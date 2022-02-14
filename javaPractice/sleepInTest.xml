@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Coding Bat" verbose="2">
+    <test name="Sleep IN">
+        <classes>
+            <class name="TestingSleepIn"/>
+        </classes>
+    </test>
+</suite>
